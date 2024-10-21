@@ -1,5 +1,11 @@
 # FastAPI Face Recognition
 
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/C4D12AQEfnB5eUECypQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1609606275382?e=2147483647&v=beta&t=FUZMIgA7PDvGe1FmMojni4TeZdagkzdzVK4DyJCTdfY" alt="fast-api" width="25%" />
+  <img src="https://i.ibb.co.com/2yhSXV9/Screenshot-2024-10-21-115539.png" alt="face recognition" width="35%" />
+  <img src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-1.svg" alt="docker" width="25%" />
+</p>
+
 This project provides a docker image with a FastAPI backend that uses the `face_recognition` library to detect faces in images. The backend is containerized using Docker.
 
 ## Prerequisites
