@@ -3,3 +3,4 @@ uvicorn
 face_recognition
 pillow
 python-multipart
+opencv-python-headless

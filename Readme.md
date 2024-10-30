@@ -41,7 +41,13 @@ Alternatively, you can use Docker Compose to build and run the container.
 docker-compose up --build
 ```
 
-2.Stop the services:
+2. Run the service:
+
+```sh
+docker run fastapi-face-recognition
+```
+
+3. Stop the services:
 
 ```sh
 docker-compose down
